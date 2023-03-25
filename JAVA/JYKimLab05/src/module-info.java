@@ -1,0 +1,2 @@
+module JYKimLab05 {
+}
